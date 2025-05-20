@@ -13,3 +13,7 @@ printf("HELLO WORLD!");
 $ git init
 git clone https://github.com/DuneAtreide/skills-communicate-using-markdown
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
